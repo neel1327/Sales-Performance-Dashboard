@@ -19,12 +19,16 @@ Dynamic Filtering & Slicers for customized analysis by region, category, and tim
 Top N Analysis to identify best-performing products, regions, and customers
 Comparative Analysis to evaluate current vs previous performance
 Contribution Analysis to understand revenue share across segments
+
 **Data Processing & Modeling**
+
 Performed data cleaning and transformation using Power Query
 Applied data modeling techniques to establish relationships between tables
 Created calculated columns and DAX measures for KPI computation
 Optimized data structure for improved dashboard performance and usability
+
 **Business Impact**
+
 Enabled real-time sales monitoring and performance tracking
 Identified high-revenue generating regions and products
 Highlighted underperforming segments for targeted improvement
