@@ -1,8 +1,8 @@
-📊 Sales Performance Dashboard – Detailed Overview
+**Sales Performance Dashboard – Detailed Overview**
 
 The Sales Performance Dashboard is an interactive analytics solution built using Microsoft Power BI Desktop to monitor, analyze, and optimize sales performance across multiple business dimensions. It provides a data-driven view of critical sales KPIs, enabling stakeholders to make informed strategic decisions.
 
-🔑 Key Metrics & KPIs
+**Key Metrics & KPIs**
 Total Revenue – Overall sales generated across all regions and products
 Sales Growth (%) – Period-over-period (MoM/YoY) performance tracking
 Profit & Profit Margin (%) – Profitability analysis and cost efficiency
@@ -18,12 +18,12 @@ Dynamic Filtering & Slicers for customized analysis by region, category, and tim
 Top N Analysis to identify best-performing products, regions, and customers
 Comparative Analysis to evaluate current vs previous performance
 Contribution Analysis to understand revenue share across segments
-🛠 Data Processing & Modeling
+**Data Processing & Modeling**
 Performed data cleaning and transformation using Power Query
 Applied data modeling techniques to establish relationships between tables
 Created calculated columns and DAX measures for KPI computation
 Optimized data structure for improved dashboard performance and usability
-🎯 Business Impact
+**Business Impact**
 Enabled real-time sales monitoring and performance tracking
 Identified high-revenue generating regions and products
 Highlighted underperforming segments for targeted improvement
